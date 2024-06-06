@@ -53,3 +53,6 @@ Digite a quantidade a ser convertida:
 - HttpClient: Biblioteca para realizar requisições HTTP.
 - Gson: Biblioteca para manipulação de JSON.
 - IntelliJ IDEA: Ambiente de Desenvolvimento Integrado (IDE).
+
+
+  
